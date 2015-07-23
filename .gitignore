@@ -1,3 +1,4 @@
 /artifacts/*
 /src/AngularJS101/node_modules/*
+/src/AngularJS101/project.lock.json
 /.vs/*
