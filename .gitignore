@@ -1,2 +1,3 @@
 /artifacts/*
+/src/AngularJS101/node_modules/*
 /.vs/*
