@@ -1,4 +1,5 @@
 /artifacts/*
 /src/AngularJS101/node_modules/*
 /src/AngularJS101/project.lock.json
+/src/AngularJS101/wwwroot/bin/*
 /.vs/*
